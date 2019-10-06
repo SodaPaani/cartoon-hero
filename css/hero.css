@@ -11,6 +11,7 @@ header {
 	padding: 50px;
 }
 
+/* header styles */
 h1, h2 {
 	font-family: 'Press Start 2P', cursive;
 }
@@ -25,6 +26,7 @@ header img{
 	width: 300px;
 	border: 20px solid #483a94;
 }
+/* main styles */
 
 main{
 	max-width: 800px;
